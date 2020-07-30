@@ -1,0 +1,12 @@
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\bin\Debug\C-sharp-forms.exe.config
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\bin\Debug\C-sharp-forms.exe
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\bin\Debug\C-sharp-forms.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C-sharp-forms.csprojAssemblyReference.cache
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C_sharp_forms.Hello_Everybody.resources
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C_sharp_forms.Properties.Resources.resources
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C-sharp-forms.csproj.GenerateResource.cache
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C-sharp-forms.csproj.CoreCompileInputs.cache
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C-sharp-forms.exe
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C-sharp-forms.pdb
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C_sharp_forms.Variebal_String.resources
+D:\DHTX-VB2\NhapMonLapTrinh\C-sharp-basic-01\C-sharp-forms\obj\Debug\C_sharp_forms.MainScreen.resources
